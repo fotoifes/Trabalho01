@@ -27,8 +27,8 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
     5.2 NOTACAO UML (Caso esteja fazendo a disciplina de analise)
 
 ####5.1 Validação do Modelo Conceitual
-    [Grupo01]: [Nomes dos que participaram na avaliação]
-    [Grupo02]: [Nomes dos que participaram na avaliação]
+    [Grupo01]: [Juliana e Luana]
+    [Grupo02]: [Gustavo de Assis e Victor]
 
 ####5.2 DECISÕES DE PROJETO
     [atributo]: [descrição da decisão]
