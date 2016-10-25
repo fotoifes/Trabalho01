@@ -31,12 +31,13 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
     [Grupo02]: [Gustavo de Assis e Victor]
 
 ####5.2 DECISÕES DE PROJETO
-    [atributo]: [descrição da decisão]
-    
-    EXEMPLO:
-    a) Campo endereço: em nosso projeto optamos por um campo multivalorado e composto, pois a empresa 
-    pode possuir para cada departamento mais de uma localização... 
-    b) justifique!
+    Login: este campo é a chave primaria de 4 entidades por identificar quem esta acessando sua conta no site
+    Tipo_usuario: este campo é chave primaria de 2 entidades por, em conjunto com o atributo login, identificar que tipo de usuario está     acessando sua conta
+    Contatos: optamos pelo atributo multivalorado, por ser possível inúmeras formas de contatar a pessoa cadastrada
+    Língua: optamos pelo atributo multivalorado a língua base escolhida para acesso do site, tendo como base várias possíveis traduções     do site para a língua nativa do cadastrado
+    Endereço: optamos pelo atributo composto por haver um numero específicos de endereços para um cadastrado
+    Avaliação: este item esta relacionado á avaliação que é feita pelo usuário sobre a empresa e, da empresa sobre um usuário, o qual       usou os serviços da empresa
+
 
 ####5.3 DESCRIÇÃO DOS DADOS 
     
