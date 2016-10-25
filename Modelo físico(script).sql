@@ -34,18 +34,6 @@ Estado VARCHAR(2),
 FOREIGN KEY(Login_Usuario) REFERENCES Usuário (Login_Usuario)
 );
 
-CREATE TABLE Endereço_empresa (
-Endereço_PK INTEGER PRIMARY KEY,
-Login_empresa VARCHAR(10),
-Cidade VARCHAR(45),
-Numero INTEGER,
-Bairro VARCHAR(45),
-Rua VARCHAR(45),
-CEP INTEGER,
-Estado VARCHAR(2),
-FOREIGN KEY(Login_empresa) REFERENCES Empresa (Login_empresa)
-);
-
 CREATE TABLE Língua_usuario (
 Língua_PK INTEGER PRIMARY KEY,
 Descricao_lingua VARCHAR(10),
