@@ -31,41 +31,39 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
     [Grupo02]: [Gustavo de Assis e Victor]
 
 ####5.2 DECISÕES DE PROJETO
-    Login: este campo é a chave primaria de 4 entidades por identificar quem esta acessando sua conta no site
-    Tipo_usuario: este campo é chave primaria de 2 entidades por, em conjunto com o atributo login, identificar que tipo de usuario está acessando sua conta
-    Contatos: optamos pelo atributo multivalorado, por ser possível inúmeras formas de contatar a pessoa cadastrada
-    Língua: optamos pelo atributo multivalorado a língua base escolhida para acesso do site, tendo como base várias possíveis traduções  do site para a língua nativa do cadastrado
-    Endereço: optamos pelo atributo composto por haver um numero específicos de endereços para um cadastrado
-    Avaliação: este item esta relacionado á avaliação que é feita pelo usuário sobre a empresa e, da empresa sobre um usuário, o qual    usou os serviços da empresa
+    Login: este campo é a chave primaria de 4 entidades por identificar quem esta acessando sua conta no site.
+    Tipo_usuario: este campo é chave primaria de 2 entidades por, em conjunto com o atributo login, identificar que tipo de usuario está acessando sua conta.
+    Contatos: optamos pelo atributo multivalorado, por ser possível inúmeras formas de contatar a pessoa cadastrada.
+    Língua: optamos pelo atributo multivalorado a língua base escolhida para acesso do site, tendo como base várias possíveis traduções  do site para a língua nativa do cadastrado.
+    Endereço: optamos pelo atributo composto por haver um numero específicos de endereços para um cadastrado.
+    Avaliação: este item esta relacionado á avaliação que é feita pelo usuário sobre a empresa e, da empresa sobre um usuário, o qual    usou os serviços da empresa.
 
 
 ####5.3 DESCRIÇÃO DOS DADOS 
     
-    Configurações: Tabela que permite que o usuario possa editar alguns dados.<br>
-    Login: Campo que armazena o nome de usuario(sendo esse usuário como um código pessoal), permitindo a entrada no site.<br>
-    Tipo_usuario: Campo que armazena o tipo de usuario, podendo diferencia-lo de um simples usuario para um estúdio.<br>
+    Configurações: Tabela que permite que o usuario possa editar alguns dados.
+    Login: Campo que armazena o nome de usuario(sendo esse usuário como um código pessoal), permitindo a entrada no site.
+    Tipo_usuario: Campo que armazena o tipo de usuario, podendo diferencia-lo de um simples usuario para um estúdio.
     
-    Empresa: Tabela que permite guardar os dados da empresa.<br>
-    Login: Campo que armazena o nome de usuario(sendo esse usuário como um código pessoal), permitindo a entrada no site.<br>
-    Razao_Social : Campo que armazena o nome da empresa.<br>
+    Empresa: Tabela que permite guardar os dados da empresa.
+    Login: Campo que armazena o nome de usuario(sendo esse usuário como um código pessoal), permitindo a entrada no site.
+    Razao_Social : Campo que armazena o nome da empresa.
     
-    Entrada: Tabela que permite o cadastro do usuario.<br>
-    Login: Campo que armazena o nome de usuario(sendo esse usuário como um código pessoal), permitindo a entrada no site.<br>
+    Entrada: Tabela que permite o cadastro do usuario.
+    Login: Campo que armazena o nome de usuario(sendo esse usuário como um código pessoal), permitindo a entrada no site.
     
-    Produto: Tabela que armazena dados referentes aos serviços prestados por cada estúdio.<br>
-    Razao_Social : Campo que armazena o nome da empresa.<br>
+    Produto: Tabela que armazena dados referentes aos serviços prestados por cada estúdio.
+    Razao_Social : Campo que armazena o nome da empresa.
     
-    Usuario: Tabela que permite guardar os dados do usuario.<br>
-    Login: Campo que armazena o nome de usuario(sendo esse usuário como um código pessoal), permitindo a entrada no site.<br>
-    Tipo_usuario: Campo que armazena o tipo de usuario, podendo diferencia-lo de um simples usuario para um estúdio.<br>
+    Usuario: Tabela que permite guardar os dados do usuario.
+    Login: Campo que armazena o nome de usuario(sendo esse usuário como um código pessoal), permitindo a entrada no site.
+    Tipo_usuario: Campo que armazena o tipo de usuario, podendo diferencia-lo de um simples usuario para um estúdio.
     
 
 ###6	MODELO LÓGICO<br>
-![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/modelo%20logico.png?raw=true "Modelo Conceitual")
+![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/modelo%20logico.png?raw=true "Modelo Lógico")
 ###7	MODELO FÍSICO<br>
-
-        Entrega até este ponto em 25/10/2016
-        
+![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/Modelo%20f%C3%ADsico(script).sql?raw=true "Modelo Físico")        
         
 ###8	INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
 ####8.1 DETALHAMENTO DAS INFORMAÇÕES
