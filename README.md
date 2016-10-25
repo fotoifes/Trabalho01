@@ -47,6 +47,7 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 
 
 ###6	MODELO LÓGICO<br>
+![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/modelo%20logico.png?raw=true "Modelo Conceitual")
 ###7	MODELO FÍSICO<br>
 
         Entrega até este ponto em 25/10/2016
