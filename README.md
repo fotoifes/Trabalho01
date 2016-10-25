@@ -4,7 +4,7 @@ Trabalho desenvolvido durante a disciplina de BD
 #Sumário
 
 ###1	COMPONENTES<br>
-Integrantes do grupo<br>
+Integrantes do grupo: Estêvão Segatto Vieira e Matheus Lopes da Costa Abreu.<br>
 
 ###2	INTRODUÇÃO E MOTIVAÇAO<br>
 Este documento contém a especificação do projeto do banco de dados <nome do projeto> e motivação da escolha realizada. <br>
@@ -63,7 +63,7 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 ###6	MODELO LÓGICO<br>
 ![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/modelo%20logico.png?raw=true "Modelo Lógico")
 ###7	MODELO FÍSICO<br>
-![Crtrl file](https://github.com/fotoifes/Trabalho01/blob/master/Modelo%20f%C3%ADsico(script).sql?raw=true "Modelo Físico")        
+![Modelo Físico](https://github.com/fotoifes/Trabalho01/blob/master/Modelo%20f%C3%ADsico(script).sql?raw=true "Modelo Físico")        
         
 ###8	INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
 ####8.1 DETALHAMENTO DAS INFORMAÇÕES
