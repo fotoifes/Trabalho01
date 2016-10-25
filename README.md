@@ -24,7 +24,8 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
     5.1 NOTACAO ENTIDADE RELACIONAMENTO
 ![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/Modelo.png?raw=true "Modelo Conceitual")
     
-    5.2 NOTACAO UML (Caso esteja fazendo a disciplina de analise)
+    5.2 NOTACAO UML 
+![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/Modelo%20UML.png?raw=true "Modelo UML")
 
 ####5.1 Validação do Modelo Conceitual
     [Grupo01]: [Juliana e Luana]
