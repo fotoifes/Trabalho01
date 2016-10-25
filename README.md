@@ -39,12 +39,25 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
     b) justifique!
 
 ####5.3 DESCRIÇÃO DOS DADOS 
-    [objeto]: [descrição do objeto]
     
-    EXEMPLO:
-    CLIENTE: Tabela que armazena as informações relativas ao cliente<br>
-    CPF: campo que armazena o número de Cadastro de Pessoa Física para cada cliente da empresa.<br>
-
+    Configurações: Tabela que permite que o usuario possa editar alguns dados.<br>
+    Login: Campo que armazena o nome de usuario(sendo esse usuário como um código pessoal), permitindo a entrada no site.<br>
+    Tipo_usuario: Campo que armazena o tipo de usuario, podendo diferencia-lo de um simples usuario para um estúdio.<br>
+    
+    Empresa: Tabela que permite guardar os dados da empresa.<br>
+    Login: Campo que armazena o nome de usuario(sendo esse usuário como um código pessoal), permitindo a entrada no site.<br>
+    Razao_Social : Campo que armazena o nome da empresa.<br>
+    
+    Entrada: Tabela que permite o cadastro do usuario.<br>
+    Login: Campo que armazena o nome de usuario(sendo esse usuário como um código pessoal), permitindo a entrada no site.<br>
+    
+    Produto: Tabela que armazena dados referentes aos serviços prestados por cada estúdio.<br>
+    Razao_Social : Campo que armazena o nome da empresa.<br>
+    
+    Usuario: Tabela que permite guardar os dados do usuario.<br>
+    Login: Campo que armazena o nome de usuario(sendo esse usuário como um código pessoal), permitindo a entrada no site.<br>
+    Tipo_usuario: Campo que armazena o tipo de usuario, podendo diferencia-lo de um simples usuario para um estúdio.<br>
+    
 
 ###6	MODELO LÓGICO<br>
 ![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/modelo%20logico.png?raw=true "Modelo Conceitual")
