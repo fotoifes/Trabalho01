@@ -61,7 +61,6 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
     
 
 ###6	MODELO LÓGICO<br>
-https://github.com/fotoifes/Trabalho01/blob/master/modelo%20logico.png
 ![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/modelo%20logico.png?raw=true "Modelo Físico")
 ###7	MODELO FÍSICO<br>
 ![Modelo Físico](https://github.com/fotoifes/Trabalho01/blob/master/Modelo%20f%C3%ADsico(script).sql?raw=true "Modelo Físico")        
