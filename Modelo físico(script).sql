@@ -46,10 +46,20 @@ Estado VARCHAR(2),
 FOREIGN KEY(Login_empresa) REFERENCES Empresa (Login_empresa)
 );
 
-CREATE TABLE Língua (
+CREATE TABLE Língua_usuario (
 Língua_PK INTEGER PRIMARY KEY,
 Descricao_lingua VARCHAR(10),
-cod_lingua VARCHAR(10)
+cod_lingua VARCHAR(10),
+Login_Usuario VARCHAR(10),
+FOREIGN KEY(Login_Usuario) REFERENCES Empresa (Login_Usuario)
+);
+
+CREATE TABLE Língua_empresa (
+Língua_PK INTEGER PRIMARY KEY,
+Descricao_lingua VARCHAR(10),
+cod_lingua VARCHAR(10),
+Login_empresa VARCHAR(10),
+FOREIGN KEY(Login_empresa) REFERENCES Empresa (Login_empresa)  
 );
 
 CREATE TABLE Contatos_usuário (
