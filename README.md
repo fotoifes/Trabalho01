@@ -22,7 +22,7 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 
 ###5	MODELO CONCEITUAL<br>
     5.1 NOTACAO ENTIDADE RELACIONAMENTO
-![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/Modelo.png?raw=true "Modelo Conceitual")
+![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/Conceitual.png?raw=true "Modelo Conceitual")
     
     5.2 NOTACAO UML 
 ![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/Modelo%20UML.png?raw=true "Modelo UML")
@@ -62,9 +62,9 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
     
 
 ###6	MODELO LÓGICO<br>
-![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/modelo%20logico.png?raw=true "Modelo Físico")
+![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/logico.jpg?raw=true "Modelo Físico")
 ###7	MODELO FÍSICO<br>
-![Modelo Físico](https://github.com/fotoifes/Trabalho01/blob/master/Modelo%20f%C3%ADsico(script).sql?raw=true "Modelo Físico")        
+![Modelo Físico](https://github.com/fotoifes/Trabalho01/blob/master/operacional.sql?raw=true "Modelo Físico")        
         
 ###8	INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
 ####8.1 DETALHAMENTO DAS INFORMAÇÕES
