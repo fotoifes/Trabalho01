@@ -25,7 +25,7 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 ![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/Conceitual.png?raw=true "Modelo Conceitual")
     
     5.2 NOTACAO UML 
-![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/Modelo%20UML.png?raw=true "Modelo UML")
+![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/Nota%C3%A7%C3%A3o%20UML.png?raw=true "Modelo UML")
 
 ####5.1 Validação do Modelo Conceitual
     [Grupo01]: [Juliana e Luana]
