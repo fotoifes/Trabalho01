@@ -2,83 +2,83 @@ CREATE DATABASE IF NOT EXISTS fotografia;
 USE fotografia; 
 
 CREATE TABLE usuario_empresa (
-Avaliacao VARCHAR(10),
-id_pessoa_us VARCHAR(10),
-id_pessoa_emp VARCHAR(10)
+Avaliacao INTEGER,
+id_pessoa_us INTEGER,
+id_pessoa_emp INTEGER
 );
 
 CREATE TABLE empresa_usuario (
-Avaliacao VARCHAR(10),
-id_pessoa_us VARCHAR(10),
-id_pessoa_emp VARCHAR(10)
+Avaliacao INTEGER,
+id_pessoa_us INTEGER,
+id_pessoa_emp INTEGER
 );
 
 CREATE TABLE usuario (
 Nome_completo VARCHAR(45),
-id_pessoa VARCHAR(10) PRIMARY KEY
+id_pessoa INTEGER PRIMARY KEY
 );
 
 CREATE TABLE book (
-Book INTEGER PRIMARY KEY,
+Book INTEGER AUTO_INCREMENT PRIMARY KEY,
 descricao_book VARCHAR(10),
 codigo_book INTEGER,
-cod_produto VARCHAR(10)
+cod_produto INTEGER
 );
 
 CREATE TABLE itens (
-Itens INTEGER PRIMARY KEY,
+Itens INTEGER AUTO_INCREMENT PRIMARY KEY,
 Codigo_item INTEGER,
 Descricao_item VARCHAR(10),
-cod_produto VARCHAR(10)
+cod_produto INTEGER
 );
 
 CREATE TABLE endereco (
-Endereço INTEGER PRIMARY KEY,
+Endereco INTEGER AUTO_INCREMENT PRIMARY KEY,
 Cidade VARCHAR(10),
 Numero VARCHAR(10),
-CEP VARCHAR(10),
+CEP INTEGER,
 Bairro VARCHAR(10),
 Rua VARCHAR(10),
 Estado VARCHAR(10),
-id_pessoa VARCHAR(10)
+id_pessoa INTEGER
 );
 
 CREATE TABLE contato (
 descricao VARCHAR(10),
-id_contato VARCHAR(10) PRIMARY KEY,
-id_pessoa VARCHAR(10),
-id_tipo_contato VARCHAR(10)
+id_contato INTEGER AUTO_INCREMENT PRIMARY KEY,
+id_pessoa INTEGER,
+id_tipo_contato INTEGER
 );
 
 CREATE TABLE tipo_contato (
-id_tipo_contato VARCHAR(10) PRIMARY KEY,
+id_tipo_contato INTEGER AUTO_INCREMENT PRIMARY KEY,
 descricao_tipo VARCHAR(10)
 );
 
 CREATE TABLE apresenta (
-id_pessoa VARCHAR(10),
-cod_produto VARCHAR(10)
+id_pessoa INTEGER,
+cod_produto integer
 );
 
 CREATE TABLE escolhida (
-cod_lingua VARCHAR(10),
-id_pessoa VARCHAR(10),
+cod_lingua INTEGER,
+id_pessoa INTEGER,
 FOREIGN KEY(id_pessoa) REFERENCES usuario (id_pessoa)
 );
 
 CREATE TABLE lingua (
 Descricao_lingua VARCHAR(10),
-cod_lingua VARCHAR(10) PRIMARY KEY
+cod_lingua INTEGER AUTO_INCREMENT PRIMARY KEY
 );
 
 CREATE TABLE produtos (
-cod_produto VARCHAR(10) PRIMARY KEY
+cod_produto INTEGER AUTO_INCREMENT PRIMARY KEY
 );
 
 CREATE TABLE login_pessoa (
 Senha VARCHAR(10),
 Login VARCHAR(10),
-id_pessoa VARCHAR(10) PRIMARY KEY,
+id_pessoa INTEGER AUTO_INCREMENT PRIMARY KEY,
 data_inicio DATETIME,
 tipo_pessoa VARCHAR(10)
 );
@@ -86,7 +86,7 @@ tipo_pessoa VARCHAR(10)
 CREATE TABLE empresa (
 Razao_Social VARCHAR(45),
 Nome_Fantasia VARCHAR(45),
-id_pessoa VARCHAR(10) PRIMARY KEY
+id_pessoa INTEGER PRIMARY KEY
 );
 
 ALTER TABLE usuario_empresa ADD FOREIGN KEY(id_pessoa_us) REFERENCES usuario (id_pessoa);
