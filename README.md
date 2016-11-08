@@ -61,7 +61,7 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 ###6	MODELO LÓGICO<br>
 ![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/logico.jpg?raw=true "Modelo Físico")
 ###7	MODELO FÍSICO<br>
-![Modelo Físico](https://github.com/fotoifes/Trabalho01/blob/master/operacional.sql?raw=true "Modelo Físico")        
+![Modelo Físico](https://github.com/fotoifes/Trabalho01/blob/master/operacional1.sql?raw=true "Modelo Físico")        
         
 ###8	INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
 ####8.1 DETALHAMENTO DAS INFORMAÇÕES
