@@ -15,7 +15,7 @@ id_pessoa_emp INTEGER
 
 CREATE TABLE usuario (
 Nome_completo VARCHAR(45),
-id_pessoa INTEGER PRIMARY KEY
+id_pessoa INTEGER 
 );
 
 CREATE TABLE book (
@@ -86,7 +86,7 @@ tipo_pessoa VARCHAR(45)
 CREATE TABLE empresa (
 Razao_Social VARCHAR(45),
 Nome_Fantasia VARCHAR(45),
-id_pessoa INTEGER PRIMARY KEY
+id_pessoa INTEGER 
 );
 
 ALTER TABLE usuario_empresa ADD FOREIGN KEY(id_pessoa_us) REFERENCES usuario (id_pessoa);
@@ -101,3 +101,5 @@ ALTER TABLE contato ADD FOREIGN KEY(id_tipo_contato) REFERENCES tipo_contato (id
 ALTER TABLE apresenta ADD FOREIGN KEY(id_pessoa) REFERENCES empresa (id_pessoa);
 ALTER TABLE apresenta ADD FOREIGN KEY(cod_produto) REFERENCES produtos (cod_produto);
 ALTER TABLE escolhida ADD FOREIGN KEY(cod_lingua) REFERENCES lingua (cod_lingua);
+ALTER TABLE usuario ADD FOREIGN KEY(id_pessoa) REFERENCES login_pessoa (id_pessoa);
+ALTER TABLE empresa ADD FOREIGN KEY(id_pessoa) REFERENCES login_pessoa (id_pessoa);
