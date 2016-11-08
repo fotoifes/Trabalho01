@@ -17,9 +17,6 @@ neste ponto a codificação não e necessária, somente as ideias de telas devem
 
 Sugestão: https://balsamiq.com/products/mockups/<br>
 
-![Alt text](https://github.com/discipbd1/trab01/blob/master/balsamiq.png?raw=true "Title")
-
-
 ###5	MODELO CONCEITUAL<br>
     5.1 NOTACAO ENTIDADE RELACIONAMENTO
 ![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/Conceitual.png?raw=true "Modelo Conceitual")
