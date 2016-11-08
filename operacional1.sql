@@ -72,7 +72,9 @@ cod_lingua INTEGER AUTO_INCREMENT PRIMARY KEY
 );
 
 CREATE TABLE produtos (
-cod_produto INTEGER AUTO_INCREMENT PRIMARY KEY
+cod_produto INTEGER AUTO_INCREMENT PRIMARY KEY,
+Book Integer,
+Itens INTEGER
 );
 
 CREATE TABLE login_pessoa (
