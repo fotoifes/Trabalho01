@@ -20,7 +20,7 @@ id_pessoa INTEGER PRIMARY KEY
 
 CREATE TABLE book (
 Book INTEGER AUTO_INCREMENT PRIMARY KEY,
-descricao_book VARCHAR(10),
+descricao_book VARCHAR(45),
 codigo_book INTEGER,
 cod_produto INTEGER
 );
@@ -28,23 +28,23 @@ cod_produto INTEGER
 CREATE TABLE itens (
 Itens INTEGER AUTO_INCREMENT PRIMARY KEY,
 Codigo_item INTEGER,
-Descricao_item VARCHAR(10),
+Descricao_item VARCHAR(45),
 cod_produto INTEGER
 );
 
 CREATE TABLE endereco (
 Endereco INTEGER AUTO_INCREMENT PRIMARY KEY,
-Cidade VARCHAR(10),
-Numero VARCHAR(10),
+Cidade VARCHAR(45),
+Numero INTEGER,
 CEP INTEGER,
-Bairro VARCHAR(10),
-Rua VARCHAR(10),
-Estado VARCHAR(10),
+Bairro VARCHAR(45),
+Rua VARCHAR(45),
+Estado VARCHAR(45),
 id_pessoa INTEGER
 );
 
 CREATE TABLE contato (
-descricao VARCHAR(10),
+descricao VARCHAR(45),
 id_contato INTEGER AUTO_INCREMENT PRIMARY KEY,
 id_pessoa INTEGER,
 id_tipo_contato INTEGER
@@ -52,7 +52,7 @@ id_tipo_contato INTEGER
 
 CREATE TABLE tipo_contato (
 id_tipo_contato INTEGER AUTO_INCREMENT PRIMARY KEY,
-descricao_tipo VARCHAR(10)
+descricao_tipo VARCHAR(45)
 );
 
 CREATE TABLE apresenta (
@@ -67,7 +67,7 @@ FOREIGN KEY(id_pessoa) REFERENCES usuario (id_pessoa)
 );
 
 CREATE TABLE lingua (
-Descricao_lingua VARCHAR(10),
+Descricao_lingua VARCHAR(45),
 cod_lingua INTEGER AUTO_INCREMENT PRIMARY KEY
 );
 
@@ -76,11 +76,11 @@ cod_produto INTEGER AUTO_INCREMENT PRIMARY KEY
 );
 
 CREATE TABLE login_pessoa (
-Senha VARCHAR(10),
-Login VARCHAR(10),
+Senha VARCHAR(45),
+Login VARCHAR(45),
 id_pessoa INTEGER AUTO_INCREMENT PRIMARY KEY,
-data_inicio DATETIME,
-tipo_pessoa VARCHAR(10)
+data_inicio DATE,
+tipo_pessoa VARCHAR(45)
 );
 
 CREATE TABLE empresa (
