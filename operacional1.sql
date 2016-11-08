@@ -22,14 +22,14 @@ CREATE TABLE book (
 Book INTEGER AUTO_INCREMENT PRIMARY KEY,
 descricao_book VARCHAR(45),
 codigo_book INTEGER,
-cod_produto INTEGER
+
 );
 
 CREATE TABLE itens (
 Itens INTEGER AUTO_INCREMENT PRIMARY KEY,
 Codigo_item INTEGER,
 Descricao_item VARCHAR(45),
-cod_produto INTEGER
+
 );
 
 CREATE TABLE endereco (
@@ -93,8 +93,8 @@ ALTER TABLE usuario_empresa ADD FOREIGN KEY(id_pessoa_us) REFERENCES usuario (id
 ALTER TABLE usuario_empresa ADD FOREIGN KEY(id_pessoa_emp) REFERENCES empresa (id_pessoa);
 ALTER TABLE empresa_usuario ADD FOREIGN KEY(id_pessoa_us) REFERENCES usuario (id_pessoa);
 ALTER TABLE empresa_usuario ADD FOREIGN KEY(id_pessoa_emp) REFERENCES empresa (id_pessoa);
-ALTER TABLE book ADD FOREIGN KEY(cod_produto) REFERENCES produtos (cod_produto);
-ALTER TABLE itens ADD FOREIGN KEY(cod_produto) REFERENCES produtos (cod_produto);
+ALTER TABLE produtos ADD FOREIGN KEY(Book) REFERENCES book (Book);
+ALTER TABLE produtos ADD FOREIGN KEY(Itens) REFERENCES itens (Itens);
 ALTER TABLE endereco ADD FOREIGN KEY(id_pessoa) REFERENCES login_pessoa (id_pessoa);
 ALTER TABLE contato ADD FOREIGN KEY(id_pessoa) REFERENCES login_pessoa (id_pessoa);
 ALTER TABLE contato ADD FOREIGN KEY(id_tipo_contato) REFERENCES tipo_contato (id_tipo_contato);
