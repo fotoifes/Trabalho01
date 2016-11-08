@@ -20,16 +20,12 @@ id_pessoa INTEGER primary key
 
 CREATE TABLE book (
 Book INTEGER AUTO_INCREMENT PRIMARY KEY,
-descricao_book VARCHAR(45),
-codigo_book INTEGER,
-
+descricao_book VARCHAR(45)
 );
 
 CREATE TABLE itens (
 Itens INTEGER AUTO_INCREMENT PRIMARY KEY,
-Codigo_item INTEGER,
-Descricao_item VARCHAR(45),
-
+Descricao_item VARCHAR(45)
 );
 
 CREATE TABLE endereco (
