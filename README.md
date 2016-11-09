@@ -74,7 +74,8 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
         c) fontes de estudo para desenvolvimento do projeto:
             
         
-####8.2 INCLUSÃO DO SCRIPT PARA CRIAÇÃO DE TABELA E INSERÇÃO DOS DADOS
+####8.2 INCLUSÃO DO SCRIPT PARA CRIAÇÃO DE TABELA E INSERÇÃO DOS DADOS<br>
+![Modelo Físico](https://github.com/fotoifes/Trabalho01/blob/master/operacional1.sql?raw=true "Modelo Físico")
         ![INCLUSÃO DO SCRIPT PARA CRIAÇÃO DE TABELA E INSERÇÃO DOS DADOS](https://github.com/fotoifes/Trabalho01/blob/master/Script%20de%20inser%C3%A7%C3%A3o%20trabalho.sql?raw=true "Script")
         
 ###9	TABELAS E PRINCIPAIS CONSULTAS<br>
