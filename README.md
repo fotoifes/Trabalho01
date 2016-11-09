@@ -75,7 +75,7 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
             
         
 ####8.2 INCLUSÃO DO SCRIPT PARA CRIAÇÃO DE TABELA E INSERÇÃO DOS DADOS
-        ![INCLUSÃO DO SCRIPT PARA CRIAÇÃO DE TABELA E INSERÇÃO DOS DADOS](https://github.com/fotoifes/Trabalho01/blob/master/Script%20de%20inser%C3%A7%C3%A3o%20trabalho.sql?raw=true)
+        ![INCLUSÃO DO SCRIPT PARA CRIAÇÃO DE TABELA E INSERÇÃO DOS DADOS](https://github.com/fotoifes/Trabalho01/blob/master/Script%20de%20inser%C3%A7%C3%A3o%20trabalho.sql?raw=true "Script")
         
 ###9	TABELAS E PRINCIPAIS CONSULTAS<br>
 ####9.1	CONSULTAS DAS TABELAS COM TODOS OS DADOS INSERIDOS (Todas) <br>
