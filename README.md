@@ -59,7 +59,7 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
     
 
 ###6	MODELO LÓGICO<br>
-![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/logico.jpg?raw=true "Modelo Físico")
+![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/logico.jpg?raw=true "Modelo Lógico")
 ###7	MODELO FÍSICO<br>
 ![Modelo Físico](https://github.com/fotoifes/Trabalho01/blob/master/operacional1.sql?raw=true "Modelo Físico")        
         
@@ -67,14 +67,15 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 ####8.1 DETALHAMENTO DAS INFORMAÇÕES
         Detalhamento sobre as informações e processo de obtenção ou geração dos dados.
         Referenciar todas as fontes referentes a :
-        a) obtenção dos dados
-        b) obtenção de códigos reutilizados
-        c) fontes de estudo para desenvolvimento do projeto
+        a) obtenção dos dados:
+            Dados fictícios.
+        b) obtenção de códigos reutilizados:
+            Não foi utilizados códigos reutilizados.
+        c) fontes de estudo para desenvolvimento do projeto:
+            
         
 ####8.2 INCLUSÃO DO SCRIPT PARA CRIAÇÃO DE TABELA E INSERÇÃO DOS DADOS
-        a) inclusão das instruções para criação das tabelas e estruturas de amazenamento do BD
-        b) inclusão das instruções de inserção dos dados nas referidas tabelas
-        c) inclusão das instruções para execução de outros procedimentos necessários
+
 
 
         Entrega até este ponto em 01/11/2016
