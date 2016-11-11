@@ -79,6 +79,9 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
         
 ###9	TABELAS E PRINCIPAIS CONSULTAS<br>
 ####9.1	CONSULTAS DAS TABELAS COM TODOS OS DADOS INSERIDOS (Todas) <br>
+
+![Script](https://github.com/fotoifes/Trabalho01/blob/master/CONSULTAS%20DAS%20TABELAS%20COM%20TODOS%20OS%20DADOS%20INSERIDOS.sql?raw=true "Script")
+
 ![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/Select%20book.png?raw=true "Tabela book")<br>
 
 ![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/Select%20apresenta.png?raw=true "Tabela apresenta")<br>
