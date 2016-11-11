@@ -123,6 +123,15 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 ![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/operador%202.png?raw=true "where")<br>
 
 ####9.4	CONSULTAS QUE USAM OPERADORES LIKE (Mínimo 3)  <br>
+
+![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/Like%201.png?raw=true "where")<br>
+
+![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/Like%202.png?raw=true "where")<br>
+
+![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/Like%203.png?raw=true "where")<br>
+
+![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/Like%204.png?raw=true "where")<br>
+
 ####9.5	ATUALIZAÇÃO E EXCLUSÃO DE DADOS (Mínimo 6)<br>
 ####9.6	CONSULTAS COM JUNÇÃO (Todas Junções)<br>
 ####9.7	CONSULTAS COM GROUP BY (Mínimo 5)<br>
