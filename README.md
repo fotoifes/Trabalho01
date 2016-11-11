@@ -111,6 +111,9 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 ![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/Select%20usuario_empresa.png?raw=true "Tabela usuario_empresa")<br>
 
 ####9.2	CONSULTAS DAS TABELAS COM FILTROS WHERE (Mínimo 3) <br>
+
+![Script](https://github.com/fotoifes/Trabalho01/blob/master/CONSULTAS%20DAS%20TABELAS%20COM%20FILTROS%20WHERE.sql?raw=true "Script")
+
 ![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/consulta%20where%201.png?raw=true "where")<br>
 
 ![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/consulta%20where%202.png?raw=true "where")<br>
@@ -121,11 +124,15 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 
 ####9.3	CONSULTAS QUE USAM OPERADORES LÓGICOS, ARITMÉTICOS E CAMPOS RENOMEADOS (Mínimo 2)<br>
 
+![Script](https://github.com/fotoifes/Trabalho01/blob/master/CONSULTAS%20QUE%20USAM%20OPERADORES%20L%C3%93GICOS%2C%20ARITM%C3%89TICOS%20E%20CAMPOS%20RENOMEADOS.sql?raw=true "Script")
+
 ![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/operador%201.png?raw=true "where")<br>
 
 ![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/operador%202.png?raw=true "where")<br>
 
 ####9.4	CONSULTAS QUE USAM OPERADORES LIKE (Mínimo 3)  <br>
+
+![Script](https://github.com/fotoifes/Trabalho01/blob/master/CONSULTAS%20QUE%20USAM%20OPERADORES%20LIKE.sql?raw=true "Script")
 
 ![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/Like%201.png?raw=true "where")<br>
 
@@ -136,6 +143,8 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 ![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/Like%204.png?raw=true "where")<br>
 
 ####9.5	ATUALIZAÇÃO E EXCLUSÃO DE DADOS (Mínimo 6)<br>
+
+![Script](https://github.com/fotoifes/Trabalho01/blob/master/ATUALIZA%C3%87%C3%83O%20E%20EXCLUS%C3%83O%20DE%20DADOS.sql?raw=true "Script")
 
 ![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/UpdateDelete%201.png?raw=true "Update_Delete")<br>
 
@@ -153,6 +162,8 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 
 ####9.7	CONSULTAS COM GROUP BY (Mínimo 5)<br>
 
+![Script](https://github.com/fotoifes/Trabalho01/blob/master/CONSULTAS%20COM%20GROUP%20BY.sql?raw=true "Script")
+
 ![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/Group%20by%201.png?raw=true "Group by")<br>
 
 ![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/Group%20by%202.png?raw=true "Group by")<br>
@@ -166,6 +177,8 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 ![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/Group%20by%206.png?raw=true "Group by")<br>
         
 ####9.8	CONSULTAS COM LEFT E RIGHT JOIN (Mínimo 4) <br>
+
+![Script](https://github.com/fotoifes/Trabalho01/blob/master/CONSULTAS%20COM%20LEFT%20E%20RIGHT%20JOIN.sql?raw=true "Script")
 
 ![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/RightLeftJoin%201.png?raw=true "Left and Right Join")<br>
 
