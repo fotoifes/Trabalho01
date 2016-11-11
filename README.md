@@ -71,6 +71,7 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
         b) obtenção de códigos reutilizados:
             Não foi utilizados códigos reutilizados.
         c) fontes de estudo para desenvolvimento do projeto:
+            O trabalho foi baseado na base do emprego de um dos integrantes do grupo, que é filho de fotógrafa
             
         
 ####8.2 INCLUSÃO DO SCRIPT PARA CRIAÇÃO DE TABELA E INSERÇÃO DOS DADOS<br>
