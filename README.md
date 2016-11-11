@@ -1,4 +1,4 @@
-# TRABALHO 01
+# TRABALHO DE Banco De Dados Fotografia
 Trabalho desenvolvido durante a disciplina de BD
 
 #Sumário
