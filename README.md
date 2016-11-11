@@ -80,20 +80,41 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 ###9	TABELAS E PRINCIPAIS CONSULTAS<br>
 ####9.1	CONSULTAS DAS TABELAS COM TODOS OS DADOS INSERIDOS (Todas) <br>
 ![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/Select%20book.png?raw=true "Tabela book")<br>
-![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/Select%20apresenta.png?raw=true "Tabela book")<br>
-![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/Select%20contatos.png?raw=true "Tabela book")<br>
-![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/Select%20empresa.png?raw=true "Tabela book")<br>
-![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/Select%20empresa_usuario.png?raw=true "Tabela book")<br>
-![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/Select%20endereco.png?raw=true "Tabela book")<br>
-![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/Select%20escolhida.png?raw=true "Tabela book")<br>
-![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/Select%20itens.png?raw=true "Tabela book")<br>
-![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/Select%20lingua.png?raw=true "Tabela book")<br>
-![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/Select%20login_pessoa.png?raw=true "Tabela book")<br>
-![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/Select%20produtos.png?raw=true "Tabela book")<br>
-![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/Select%20tipo_contato.png?raw=true "Tabela book")<br>
-![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/Select%20usuario.png?raw=true "Tabela book")<br>
-![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/Select%20usuario_empresa.png?raw=true "Tabela book")<br>
+
+![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/Select%20apresenta.png?raw=true "Tabela apresenta")<br>
+
+![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/Select%20contatos.png?raw=true "Tabela contatos")<br>
+
+![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/Select%20empresa.png?raw=true "Tabela empresa")<br>
+
+![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/Select%20empresa_usuario.png?raw=true "Tabela emrpesa_usuario")<br>
+
+![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/Select%20endereco.png?raw=true "Tabela endereco")<br>
+
+![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/Select%20escolhida.png?raw=true "Tabela escolhida")<br>
+
+![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/Select%20itens.png?raw=true "Tabela itens")<br>
+
+![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/Select%20lingua.png?raw=true "Tabela lingua")<br>
+
+![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/Select%20login_pessoa.png?raw=true "Tabela login_pessoa")<br>
+
+![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/Select%20produtos.png?raw=true "Tabela produtos")<br>
+
+![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/Select%20tipo_contato.png?raw=true "Tabela tipo_contato")<br>
+
+![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/Select%20usuario.png?raw=true "Tabela usuario")<br>
+
+![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/Select%20usuario_empresa.png?raw=true "Tabela usuario_empresa")<br>
+
 ####9.2	CONSULTAS DAS TABELAS COM FILTROS WHERE (Mínimo 3) <br>
+![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/consulta%20where%201.png?raw=true "where")<br>
+
+![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/consulta%20where%202.png?raw=true "where")<br>
+
+![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/consulta%20where%203.png?raw=true "where")<br>
+
+![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/consulta%20where%204.png?raw=true "where")<br>
 ####9.3	CONSULTAS QUE USAM OPERADORES LÓGICOS, ARITMÉTICOS E CAMPOS RENOMEADOS (Mínimo 2)<br>
 ####9.4	CONSULTAS QUE USAM OPERADORES LIKE (Mínimo 3)  <br>
 ####9.5	ATUALIZAÇÃO E EXCLUSÃO DE DADOS (Mínimo 6)<br>
