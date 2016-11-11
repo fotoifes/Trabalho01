@@ -149,7 +149,18 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 ####9.6	CONSULTAS COM JUNÇÃO (Todas Junções)<br>
 
 ####9.7	CONSULTAS COM GROUP BY (Mínimo 5)<br>
-        
+
+![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/Group%20by%201.png?raw=true "Group by")<br>
+
+![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/Group%20by%202.png?raw=true "Group by")<br>
+
+![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/Group%20by%203.png?raw=true "Group by")<br>
+
+![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/Group%20by%204.png?raw=true "Group by")<br>
+
+![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/Group%20by%205.png?raw=true "Group by")<br>
+
+![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/Group%20by%206.png?raw=true "Group by")<br>
         
 ####9.8	CONSULTAS COM LEFT E RIGHT JOIN (Mínimo 4) <br>
 ####9.9	CONSULTAS COM SELF JOIN (todas) E VIEW (mais importantes) <br>
