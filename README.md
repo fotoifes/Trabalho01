@@ -163,6 +163,15 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 ![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/Group%20by%206.png?raw=true "Group by")<br>
         
 ####9.8	CONSULTAS COM LEFT E RIGHT JOIN (Mínimo 4) <br>
+
+![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/RightLeftJoin%201.png?raw=true "Left and Right Join")<br>
+
+![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/RightLeftJoin%202.png?raw=true "Left and Right Join")<br>
+
+![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/RightLeftJoin%203.png?raw=true "Left and Right Join")<br>
+
+![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/RightLeftJoin%204.png?raw=true "Left and Right Join")<br>
+
 ####9.9	CONSULTAS COM SELF JOIN (todas) E VIEW (mais importantes) <br>
 ####9.10	SUBCONSULTAS (Mínimo 3) <br>
 ###10	ATUALIZAÇÃO DA DOCUMENTAÇÃO DOS SLIDES<br>
