@@ -217,6 +217,23 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 ![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/RightLeftJoin%204.png?raw=true "Left and Right Join")<br>
 
 ####9.9	CONSULTAS COM SELF JOIN (todas) E VIEW (mais importantes) <br>
+    ###9.9.1 Script de criação das Views
+    
+        ![Script de criação das VIEW's](https://github.com/fotoifes/Trabalho01/blob/master/VIEW.sql?raw=true "VIEW")<br>
+        
+    ###9.9.2 Script de Select das Views
+    
+        ![Script de Select das VIEW's](https://github.com/fotoifes/Trabalho01/blob/master/select%20Views.sql?raw=true "VIEW")<br>
+        
+![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/select%20View1.png?raw=true "VIEW")<br>
+
+![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/select%20View2.png?raw=true "VIEW")<br>
+
+![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/select%20View3.png?raw=true "VIEW")<br>
+
+![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/select%20View4.png?raw=true "VIEW")<br>
+
+
 ####9.10	SUBCONSULTAS (Mínimo 3) <br>
 ###10	ATUALIZAÇÃO DA DOCUMENTAÇÃO DOS SLIDES<br>
 ###11	DIFICULDADES ENCONTRADAS PELO GRUPO<br>
