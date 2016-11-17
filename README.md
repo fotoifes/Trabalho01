@@ -160,6 +160,34 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 
 ####9.6	CONSULTAS COM JUNÇÃO (Todas Junções)<br>
 
+![Script](https://github.com/fotoifes/Trabalho01/blob/master/CONSULTAS%20COM%20JUN%C3%87%C3%83O.sql?raw=true "Script")
+
+![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/join1.png?raw=true "Junções join")<br>
+
+![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/join2.png?raw=true "Junções join")<br>
+
+![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/join3.png?raw=true "Junções join")<br>
+
+![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/join4.png?raw=true "Junções join")<br>
+
+![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/join5.png?raw=true "Junções join")<br>
+
+![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/join6.png?raw=true "Junções join")<br>
+
+![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/join7.png?raw=true "Junções join")<br>
+
+![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/join8.png?raw=true "Junções join")<br>
+
+![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/join9.png?raw=true "Junções join")<br>
+
+![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/join10.png?raw=true "Junções join")<br>
+
+![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/join11.png?raw=true "Junções join")<br>
+
+![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/join12.png?raw=true "Junções join")<br>
+
+![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/join13.png?raw=true "Junções join")<br>
+
 ####9.7	CONSULTAS COM GROUP BY (Mínimo 5)<br>
 
 ![Script](https://github.com/fotoifes/Trabalho01/blob/master/CONSULTAS%20COM%20GROUP%20BY.sql?raw=true "Script")
