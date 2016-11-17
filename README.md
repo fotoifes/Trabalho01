@@ -235,6 +235,15 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 
 
 ####9.10	SUBCONSULTAS (Mínimo 3) <br>
+
+![Script de Subconsultas](https://github.com/fotoifes/Trabalho01/blob/master/SUBCONSULTAS.sql?raw=true "Subconsultas")<br>
+
+![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/subconsultas1.png?raw=true "Subconsultas")<br>
+
+![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/subconsultas2.png?raw=true "Subconsultas")<br>
+
+![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/subconsultas3.png?raw=true "Subconsultas")<br>
+
 ###10	ATUALIZAÇÃO DA DOCUMENTAÇÃO DOS SLIDES<br>
 ###11	DIFICULDADES ENCONTRADAS PELO GRUPO<br>
 
