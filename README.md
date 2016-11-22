@@ -19,7 +19,7 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 
 ###5	MODELO CONCEITUAL<br>
     5.1 NOTACAO ENTIDADE RELACIONAMENTO
-![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/Conceitual.png?raw=true "Modelo Conceitual")
+![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/conceitual%20definitivo.png?raw=true "Modelo Conceitual")
     
     5.2 NOTACAO UML 
 ![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/Nota%C3%A7%C3%A3o%20UML.png?raw=true "Modelo UML")
@@ -58,7 +58,7 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
     
 
 ###6	MODELO LÓGICO<br>
-![Modelo Lógico](https://github.com/fotoifes/Trabalho01/blob/master/logico.jpg?raw=true "Modelo Lógico")
+![Modelo Lógico](https://github.com/fotoifes/Trabalho01/blob/master/Logico%20definitivo.png?raw=true "Modelo Lógico")
 ###7	MODELO FÍSICO<br>
 ![Modelo Físico](https://github.com/fotoifes/Trabalho01/blob/master/operacional.sql?raw=true "Modelo Físico")        
         
