@@ -17,6 +17,7 @@ neste ponto a codificação não e necessária, somente as ideias de telas devem
 
 Sugestão: https://balsamiq.com/products/mockups/<br>
 
+![Mockup](https://github.com/fotoifes/Trabalho01/blob/master/telas.pdf?raw=true "Telasl")
 ###5	MODELO CONCEITUAL<br>
     5.1 NOTACAO ENTIDADE RELACIONAMENTO
 ![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/conceitual%20definitivo.png?raw=true "Modelo Conceitual")
