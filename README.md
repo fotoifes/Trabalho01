@@ -240,8 +240,8 @@ Os Dados são fictícios. Não foi utilizados códigos reutilizados. O trabalho 
 
 ###10	ATUALIZAÇÃO DA DOCUMENTAÇÃO DOS SLIDES<br>
 ###11	DIFICULDADES ENCONTRADAS PELO GRUPO<br>
-
-        Entrega final em 22/11/2016
+Elaboração correta do modelo conceitual e lógico.
+ 
 ###12  FORMATACAO NO GIT: https://help.github.com/articles/basic-writing-and-formatting-syntax/
 
 
