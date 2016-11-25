@@ -75,45 +75,59 @@ Os Dados são fictícios. Não foi utilizados códigos reutilizados. O trabalho 
 ####9.1	CONSULTAS DAS TABELAS COM TODOS OS DADOS INSERIDOS (Todas) <br>
 
 select * from book; 
+
 ![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/Select%20book.png?raw=true "Tabela book")<br>
 
 select * from apresenta; 
+
 ![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/Select%20apresenta.png?raw=true "Tabela apresenta")<br>
 
 select * from contatos;
+
 ![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/Select%20contatos.png?raw=true "Tabela contatos")<br>
 
 select * from empresa;
+
 ![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/Select%20empresa.png?raw=true "Tabela empresa")<br>
 
 select * from empresa_usuario;
+
 ![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/Select%20empresa_usuario.png?raw=true "Tabela empresa_usuario")<br>
 
 select * from endereco;
+
 ![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/Select%20endereco.png?raw=true "Tabela endereco")<br>
 
 select * from escolhida;
+
 ![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/Select%20escolhida.png?raw=true "Tabela escolhida")<br>
 
 select * from itens;
+
 ![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/Select%20itens.png?raw=true "Tabela itens")<br>
 
 select * from lingua;
+
 ![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/Select%20lingua.png?raw=true "Tabela lingua")<br>
 
 select * from login_pessoa;
+
 ![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/Select%20login_pessoa.png?raw=true "Tabela login_pessoa")<br>
 
 select * from produtos;
+
 ![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/Select%20produtos.png?raw=true "Tabela produtos")<br>
 
 select * from tipo_contato;
+
 ![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/Select%20tipo_contato.png?raw=true "Tabela tipo_contato")<br>
 
 select * from usuario;
+
 ![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/Select%20usuario.png?raw=true "Tabela usuario")<br>
 
 select * from usuario_empresa;
+
 ![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/Select%20usuario_empresa.png?raw=true "Tabela usuario_empresa")<br>
 
 ####9.2	CONSULTAS DAS TABELAS COM FILTROS WHERE (Mínimo 3) <br>
