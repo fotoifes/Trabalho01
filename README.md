@@ -76,7 +76,7 @@ Os Dados são fictícios. Não foi utilizados códigos reutilizados. O trabalho 
 
 ![Script](https://github.com/fotoifes/Trabalho01/blob/master/CONSULTAS%20DAS%20TABELAS%20COM%20TODOS%20OS%20DADOS%20INSERIDOS.sql?raw=true "Script")
 
-![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/Select%20book.png?raw=true "Tabela book")<br>
+![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/consulta%20where%201.png?raw=true "Tabela book")<br>
 
 ![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/Select%20apresenta.png?raw=true "Tabela apresenta")<br>
 
