@@ -368,6 +368,8 @@ select * from endereco where Endereco = (select max(Endereco) from endereco);
 ![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/subconsultas3.png?raw=true "Subconsultas")<br>
 
 ###10	ATUALIZAÇÃO DA DOCUMENTAÇÃO DOS SLIDES<br>
+![SLIDE DE APRESENTAÇÃO](https://github.com/fotoifes/Trabalho01/blob/master/BD.pptx?raw=true "SLIDES")<br>
+
 ###11	DIFICULDADES ENCONTRADAS PELO GRUPO<br>
 Elaboração correta do modelo conceitual e lógico.
  
