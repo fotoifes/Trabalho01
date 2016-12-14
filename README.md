@@ -370,10 +370,14 @@ select * from endereco where Endereco = (select max(Endereco) from endereco);
 ###10	ATUALIZAÇÃO DA DOCUMENTAÇÃO DOS SLIDES<br>
 ![SLIDE DE APRESENTAÇÃO](https://github.com/fotoifes/Trabalho01/blob/master/BD.pptx?raw=true "SLIDES")<br>
 
-###11	DIFICULDADES ENCONTRADAS PELO GRUPO<br>
+###11	Trabalho Redes Sociais<br>
+
+![Alt text](https://www.pythonanywhere.com/user/matheus1Lopes/files/home/matheus1Lopes/BuscaEst%C3%BAdios?raw=true "DataMine")<br>
+
+###12	DIFICULDADES ENCONTRADAS PELO GRUPO<br>
 Elaboração correta do modelo conceitual e lógico.
  
-###12  FORMATACAO NO GIT: https://help.github.com/articles/basic-writing-and-formatting-syntax/
+###13  FORMATACAO NO GIT: https://help.github.com/articles/basic-writing-and-formatting-syntax/
 
 
 
