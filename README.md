@@ -368,11 +368,9 @@ select * from endereco where Endereco = (select max(Endereco) from endereco);
 ![Alt text](https://github.com/fotoifes/Trabalho01/blob/master/subconsultas3.png?raw=true "Subconsultas")<br>
 
 ###10	ATUALIZAÇÃO DA DOCUMENTAÇÃO DOS SLIDES<br>
-![SLIDE DE APRESENTAÇÃO](https://github.com/fotoifes/Trabalho01/blob/master/BD.pptx?raw=true "SLIDES")<br>
+https://github.com/fotoifes/Trabalho01/blob/master/BD.pptx <br>
 
-###11	Trabalho Redes Sociais<br>
-
-![Alt text](https://www.pythonanywhere.com/user/matheus1Lopes/files/home/matheus1Lopes/BuscaEst%C3%BAdios?raw=true "DataMine")<br>
+###11	Trabalho Redes Sociais: https://www.pythonanywhere.com/user/matheus1Lopes/files/home/matheus1Lopes/BuscaEst%C3%BAdios
 
 ###12	DIFICULDADES ENCONTRADAS PELO GRUPO<br>
 Elaboração correta do modelo conceitual e lógico.
