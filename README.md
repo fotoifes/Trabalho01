@@ -370,7 +370,10 @@ select * from endereco where Endereco = (select max(Endereco) from endereco);
 ###10	ATUALIZAÇÃO DA DOCUMENTAÇÃO DOS SLIDES<br>
 https://github.com/fotoifes/Trabalho01/blob/master/BD.pptx <br>
 
-###11	Trabalho Redes Sociais: https://www.pythonanywhere.com/user/matheus1Lopes/files/home/matheus1Lopes/BuscaEst%C3%BAdios
+###11	TRABALHO REDE SOCIAIS<br>
+![MAIN](https://github.com/fotoifes/Trabalho01/blob/master/Main.py?raw=true "MAIN")<br>
+
+![BD](https://github.com/fotoifes/Trabalho01/blob/master/BD.py?raw=true "BD")<br>
 
 ###12	DIFICULDADES ENCONTRADAS PELO GRUPO<br>
 Elaboração correta do modelo conceitual e lógico.
