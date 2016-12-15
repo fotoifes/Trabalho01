@@ -371,9 +371,11 @@ select * from endereco where Endereco = (select max(Endereco) from endereco);
 https://github.com/fotoifes/Trabalho01/blob/master/BD.pptx <br>
 
 ###11	TRABALHO REDE SOCIAIS<br>
-![MAIN](https://github.com/fotoifes/Trabalho01/blob/master/Main.py?raw=true "MAIN")<br>
+Execulte o primeiro para criar o banco. E o segundo para buscar informações e inserir no banco
 
-![BD](https://github.com/fotoifes/Trabalho01/blob/master/BD.py?raw=true "BD")<br>
+![BD](https://github.com/fotoifes/Trabalho01/blob/master/Scriptdecriacaodobanco.py?raw=true "BD")<br>
+
+![MAIN](https://github.com/fotoifes/Trabalho01/blob/master/buscadordeEstudios.py?raw=true "MAIN")<br>
 
 ###12	DIFICULDADES ENCONTRADAS PELO GRUPO<br>
 Elaboração correta do modelo conceitual e lógico.
